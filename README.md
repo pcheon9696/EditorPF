@@ -1,4 +1,3 @@
-[youtube_editor_portfolio2.html](https://github.com/user-attachments/files/26810826/youtube_editor_portfolio2.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
